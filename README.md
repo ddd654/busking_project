@@ -12,3 +12,5 @@
 # ERD
 
 ![buskingERD](https://github.com/user-attachments/assets/02f28446-fdfe-4bd7-917d-d66652bf36f7)
+# pdf
+[모여락 - 한강 버스킹 공연 예약 서비스 자료.pdf](https://github.com/user-attachments/files/19278802/-.pdf)
